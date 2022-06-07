@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -21,7 +20,6 @@
  - 𝑃𝑢𝑒𝑑𝑒𝑠 𝑚𝑖𝑟𝑎𝑟 𝑝𝑒𝑟𝑜... 𝑝𝑜𝑟𝑓𝑎𝑣𝑜𝑟 𝑁𝑂 !!! 𝑐𝑜𝑝𝑖𝑎𝑟 𝑁𝐴𝐷𝐴 !!!
 
 </details>
-
 
 ## Menú Principal :
 ![Screenshot_20210818-130826_Termux](https://user-images.githubusercontent.com/81049859/129977334-8e3a49a2-1cae-4feb-b95c-cb797da8cc68.png)
@@ -47,8 +45,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/FBhackCj7 `
 
 * ` cd FBhackCj7 `
