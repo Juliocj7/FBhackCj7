@@ -32,7 +32,7 @@
 
 ## Función Secreta :
 
-- > ` bash FBhackCj7.sh -ip `
+- > ` bash FBhackCj7.sh --ip `
 
 ## Instalación :
 
