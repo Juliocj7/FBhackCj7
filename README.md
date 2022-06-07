@@ -24,8 +24,6 @@
 ## Menú Principal :
 ![Screenshot_20210818-130826_Termux](https://user-images.githubusercontent.com/81049859/129977334-8e3a49a2-1cae-4feb-b95c-cb797da8cc68.png)
 
-- Super Remake Pro de :
-- [facehack](https://github.com/wilian-lgn/facehack) by wilian-lgn
 
 ## FBhackCj7 :
 * Herramienta Phishing para credenciales Facebook.
