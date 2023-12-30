@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221228-195652_Termux](https://user-images.githubusercontent.com/81049859/209887519-1e1f6eb6-a674-43e3-9bf7-e9fb285b6723.png)
+![1000285750](https://github.com/Juliocj7/FBhackCj7/assets/81049859/6fda9d25-8642-428f-9f04-40829854bf95)
 
 ## FBhackCj7 :
 * Herramienta Phishing para credenciales Facebook.
