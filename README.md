@@ -32,27 +32,21 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Función Secreta :
-
 - > ` bash FBhackCj7.sh --ip `
 
 ## Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * ` git clone https://github.com/Juliocj7/FBhackCj7 `
 
 * ` cd FBhackCj7 `
 
 * ` chmod +x * `
-
-* ` cd files; cp $PREFIX/bin/ngrok . `
 
 * ` bash FBhackCj7 `
 
