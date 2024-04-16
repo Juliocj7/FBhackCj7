@@ -50,7 +50,7 @@ secret:~$ ./FBhackCj7 --ip
 ```
 
 ## FBhackCj7 :
-* Herramienta Phishing para obtener credenciales de Facebook.
+* Herramienta Phishing para capturar credenciales de Facebook.
 * Personaliza y camufla enlace Phishing para una mejor ingeniería social.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
