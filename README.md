@@ -45,13 +45,12 @@ ______________________________________________________
 ## Menú Principal :
 ![1000285750](https://github.com/Juliocj7/FBhackCj7/assets/81049859/6fda9d25-8642-428f-9f04-40829854bf95)
 
-* Secret:
-~~~
-bash FBhackCj7 --ip
-~~~
+```console
+secret:~$ ./FBhackCj7 --ip
+```
 
 ## FBhackCj7 :
-* Herramienta Phishing para credenciales Facebook.
+* Herramienta Phishing para obtener credenciales de Facebook.
 * Personaliza y camufla enlace Phishing para una mejor ingeniería social.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
@@ -60,17 +59,18 @@ bash FBhackCj7 --ip
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/FBhackCj7 `
-
-* ` cd FBhackCj7 `
-
-* ` chmod +x * `
-
-* ` bash FBhackCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/FBhackCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd FBhackCj7 && chmod +x * && ./FBhackCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
